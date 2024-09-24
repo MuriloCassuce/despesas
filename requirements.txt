@@ -22,8 +22,6 @@ et-xmlfile==1.1.0
 executing==2.0.1
 fastjsonschema==2.20.0
 filelock==3.15.1
-Flask==3.0.3
-Flask-Cors==4.0.1
 flatbuffers==24.3.25
 fonttools==4.53.0
 fsspec==2024.6.0
@@ -92,8 +90,6 @@ PyMySQL==1.1.1
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
-pywin32-ctypes==0.2.2
 pyzmq==26.0.3
 readme_renderer==43.0
 referencing==0.35.1
